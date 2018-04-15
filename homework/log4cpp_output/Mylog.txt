@@ -1,0 +1,3 @@
+2018-04-15 16:49:46,415: WARN Mylog::warn(const char*) :this is warn ##log4cpp_func.h:warn:99##
+2018-04-15 16:49:46,415: ERROR Mylog::error(const char*) :this is error ##log4cpp_func.h:error:66##
+2018-04-15 16:49:46,415: INFO Mylog::warn(const char*) :this is info ##log4cpp_func.h:info:165##
